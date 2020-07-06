@@ -1,4 +1,4 @@
-# Deploying [fast.ai](https://www.fast.ai) Pokemon classifier models on [Docker]
+# Deploying [fast.ai](https://www.fast.ai) Pokemon classifier models on Docker
 
 Pokemon classifier using transfer learning on Resnet34 deployed as a web application
 
