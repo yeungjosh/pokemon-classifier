@@ -14,7 +14,8 @@ export_file_url = 'https://drive.google.com/uc?export=download&id=10YSp0BRe4VT1V
 
 export_file_name = 'export.pkl'
 
-classes = ['black', 'grizzly', 'teddys']
+# classes = ['black', 'grizzly', 'teddys']
+classes = ['Pikachu', 'Psyduck', 'Raichu']
 path = Path(__file__).parent
 
 app = Starlette()
