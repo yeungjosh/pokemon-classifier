@@ -1,11 +1,6 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Deploying [fast.ai](https://www.fast.ai) models on [Docker]
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
-
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
-
-You can test your changes locally by installing Docker and using the following command:
-
+This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Docker.
 ```
 docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3
 ```
