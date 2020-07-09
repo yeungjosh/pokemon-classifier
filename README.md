@@ -1,6 +1,6 @@
 # Deploying [fast.ai](https://www.fast.ai) Pokemon classifier models on Docker
 
-Pokemon classifier using transfer learning on Resnet34 deployed as a web application
+Pokemon classifier created using transfer learning on Resnet34 deployed as a web application
 
 This repo can be used to deploy [fast.ai](https://github.com/fastai/fastai) models on Docker.
 ```
